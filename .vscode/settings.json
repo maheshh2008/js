@@ -1,0 +1,6 @@
+{
+    "scm.alwaysShowRepositories": true,
+    "scm.alwaysShowActions": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.inputValidation": "always"
+}
